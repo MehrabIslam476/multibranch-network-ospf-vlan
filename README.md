@@ -224,8 +224,3 @@ R3# show ip interface s0/0/0 | include access
 4. Allow 30–45 seconds for Spanning Tree Protocol (STP) and OSPF neighbor convergence (or press **Fast Forward Time**).
 5. Open any client desktop browser and navigate to `http://www.mehrab.ac.bd` to verify policy-based ACL filtering.
 
----
-
-## Author
-- **Portfolio / Profile:** [Your Name / LinkedIn / GitHub Profile]
-- **Specialization:** Network Engineering & Embedded Systems
